@@ -1,2 +1,3 @@
 .vscode/
-.syncignore/
+.syncignore
+.gitignore
